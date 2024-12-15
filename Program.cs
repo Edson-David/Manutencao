@@ -31,3 +31,9 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+
+
+/*criar um controle de usuários
+qualquer um poderá criar mas apenas a manutenção pode ver a listagem e alterar o status
+e apenas a gerencia poderá deletar*/
