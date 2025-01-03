@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Serviço de Manutenção</title>
+    <link rel="stylesheet" href="syle.css">
+</head>
+<body>
+    <header>
+        <h1>Manutenção</h1>
+    </header>
+    <main>
+        <section class="servicos_pendentes">
+            <h2>Serviço Pendente</h2>
+            <div class="solicitacao">
+                <div class="solicitacao-cabecalho">
+                    <span>Solicitação #1</span>
+                    <button class="toggle-btn">&#x25BC;</button>
+                    <span class="status concluido">concluido</span>
+                </div>
+                <div class="solicitacao-detalhes">
+                    <p>Detalhes sobre a solicitação #1</p>
+                </div>
+            </div>
+
+            <div class="solicitacao">
+                <div class="solicitacao-cabecalho">
+                    <span>Solicitação #2</span>
+                    <button class="toggle-btn">&#x25B2</button>
+                    <span class="status atendimento">Atendimento</span>
+                </div>
+                <div class="solicitacao-detalhes">
+                    <p>12 de Dezembro de 2024</p>
+                    <p>Equipamento: Impressora</p>
+                    <p>Setor: Vendas</p>
+                    <p>Descrição: Equipamento está apresentando falha na impressão</p>
+                </div>
+            </div>
+
+            <div class="solicitacao">
+                <div class="solicitacao-cabecalho">
+                    <span>Solicitação #3</span>
+                    <button class="toggle-btn">&#x25BC</button>
+                    <span class="status pendente">Pendente</span>
+                </div>
+                <div class="solicitacao-detalhes">
+                    <p>Detalhes sobre a Solicitação #3</p>
+                </div>
+            </div>
+        </section>
+    </main>
+    <script>
+        document.querySelectorAll('.toggle-btn').forEach(button => {
+            button.addEventListener('click', () => {
+                const details = button.parentElement.nextElementSibling;
+                const isExpanded = details.style.display === 'block';
+                details.style.display = isExpanded ? 'none': 'block';
+                button.innerHTML = isExpanded ? '&#x25BC': '&#x25B2;';
+            });
+        });
+    </script>
+</body>
+</html>

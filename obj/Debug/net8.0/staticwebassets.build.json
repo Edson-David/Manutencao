@@ -1,11 +1,58 @@
 {
   "Version": 1,
-  "Hash": "Tn4vQRF52OtVB9YXWd79z1aRUM/nsHsbjkwln+kGD5s=",
+  "Hash": "mO4GPIkR3CUxWJNOnoln4ymExFrFxv4EVFKOMmvr5Sw=",
   "Source": "Manutencao",
   "BasePath": "_content/Manutencao",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Manutencao\\wwwroot",
+      "Source": "Manutencao",
+      "ContentRoot": "C:\\Users\\edson\\Documents\\C#\\A Parte\\Manutencao\\wwwroot\\",
+      "BasePath": "_content/Manutencao",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\edson\\Documents\\C#\\A Parte\\Manutencao\\wwwroot\\manutencao.html",
+      "SourceId": "Manutencao",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\edson\\Documents\\C#\\A Parte\\Manutencao\\wwwroot\\",
+      "BasePath": "_content/Manutencao",
+      "RelativePath": "manutencao.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\manutencao.html"
+    },
+    {
+      "Identity": "C:\\Users\\edson\\Documents\\C#\\A Parte\\Manutencao\\wwwroot\\syle.css",
+      "SourceId": "Manutencao",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\edson\\Documents\\C#\\A Parte\\Manutencao\\wwwroot\\",
+      "BasePath": "_content/Manutencao",
+      "RelativePath": "syle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\syle.css"
+    }
+  ]
 }
