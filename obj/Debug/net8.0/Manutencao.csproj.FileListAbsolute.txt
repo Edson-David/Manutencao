@@ -1,5 +1,6 @@
 C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\appsettings.json
+C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\Manutencao.staticwebassets.runtime.json
 C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\Manutencao.exe
 C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\Manutencao.deps.json
 C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\Manutencao.runtimeconfig.json
@@ -46,6 +47,9 @@ C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\Microsoft.OpenAp
 C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\System.ClientModel.dll
 C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\System.Composition.AttributedModel.dll
@@ -166,7 +170,3 @@ C:\Users\edson\Documents\C#\A Parte\Manutencao\obj\Debug\net8.0\refint\Manutenca
 C:\Users\edson\Documents\C#\A Parte\Manutencao\obj\Debug\net8.0\Manutencao.pdb
 C:\Users\edson\Documents\C#\A Parte\Manutencao\obj\Debug\net8.0\Manutencao.genruntimeconfig.cache
 C:\Users\edson\Documents\C#\A Parte\Manutencao\obj\Debug\net8.0\ref\Manutencao.dll
-C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\Manutencao.staticwebassets.runtime.json
-C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\edson\Documents\C#\A Parte\Manutencao\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
